@@ -1,5 +1,3 @@
 # QtCatchCarLicense
 Designed by Qt 5.9.8 And Visual Studio 2019
-Primary version 
-Low accuracy
-Just for Fun
+基于C++的车牌识别系统 Qt界面
